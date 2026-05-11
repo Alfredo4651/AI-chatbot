@@ -1,4 +1,4 @@
-[AI-chatbot-README.md](https://github.com/user-attachments/files/27594988/AI-chatbot-README.md)
+
 # AI Crypto Trading Chatbot (MCP + Wellat Integration)
 
 A conversational AI agent that lets users query their crypto portfolio, trading history, and performance metrics in natural language — powered by **Claude AI**, **Model Context Protocol (MCP)**, and **n8n** workflow orchestration.
